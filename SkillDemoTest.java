@@ -5,6 +5,6 @@ public class SkillDemoTest {
     
     @Test
     public void returnNum() {
-        assertEquals(4, SkillDemo.returnNum(3));
+        assertEquals(3, SkillDemo.returnNum(3));
     }
 }
